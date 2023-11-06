@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbb3Lu296Qtrr0P7qyDhTiO0zT2YyjA8y/gsxZHqYLkOtFmG0UZB/aPUa7BFO1xtLSpcunM+yq5/+zofQ7M22Q==",
+  "success": true,
+  "projectFilePath": "F:\\3. GLSoft\\Training\\4. 4rd project\\WatchTogether-BE\\WatchTogether-BE\\WatchTogether-BE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dphuo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\dphuo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\dphuo\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\dphuo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\dphuo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\dphuo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\dphuo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
