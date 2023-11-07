@@ -1,3 +1,6 @@
+## DEMO
+https://github.com/phuongglsoft/WatchTogether/blob/main/Demo.MP4
+
 ## How To Use
 FRONTEND:
 ```bash
